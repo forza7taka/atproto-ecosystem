@@ -78,6 +78,9 @@ You can open pull requests to submit/remove your project from the Community Proj
   - site: [https://sunrise.li/](https://sunrise.li)
 - Connectsky (Web & extension based ATProto Client)
   - repo: https://github.com/Nester-xyz/Connectsky
+- redocean
+  - site: [https://redocean.forza7.org/](https://redocean.forza7.org)
+  - repo: [https://github.com/forza7taka/redocean](https://github.com/forza7taka/redocean)
 
 ### Android Clients
 
